@@ -1,4 +1,4 @@
-A mood tracker mobile application for SEGi University - TCS3413 - Mobile Application Programming (Flutter)
+
 
 <img src="https://github.com/lunzai/segi-tcs3413-mood-tracker/assets/1671136/3569251f-d48c-4d9a-bb0b-c167b4b98543" width="250">
 <img src="https://github.com/lunzai/segi-tcs3413-mood-tracker/assets/1671136/77a6f930-d28e-429c-8ae0-8245e745dabf" width="250">
